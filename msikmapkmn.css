@@ -1402,13 +1402,6 @@ pkmn.urshifu-single-strike-gmax { background-position: -70px -2436px }
 pkmn.urshifu-rapid-strike-gmax { background-position: -140px -2436px }
 pkmn.zarude { background-position: -210px -2436px }
 pkmn.zarude-dada { background-position: -280px -2436px }
-pkmn.regieleki { background-position: -350px -2436px }
-pkmn.regidrago { background-position: -420px -2436px }
-pkmn.glastrier { background-position: -490px -2436px }
-pkmn.spectrier { background-position: -560px -2436px }
-pkmn.calyrex { background-position: -630px -2436px }
-pkmn.calyrex-ice-rider { background-position: -700px -2436px }
-pkmn.calyrex-shadow-rider { background-position: -770px -2436px }
 pkmn.bulbasaur.shiny { background-position: -840px -2436px }
 pkmn.ivysaur.shiny { background-position: -910px -2436px }
 pkmn.venusaur.shiny { background-position: -980px -2436px }
@@ -2815,6 +2808,17 @@ pkmn.urshifu-single-strike-gmax.shiny { background-position: -910px -4872px }
 pkmn.urshifu-rapid-strike-gmax.shiny { background-position: -980px -4872px }
 pkmn.zarude.shiny { background-position: -1050px -4872px }
 pkmn.zarude-dada.shiny { background-position: -1120px -4872px }
+
+/* SWSH DLC */
+
+pkmn.regieleki { background-position: -350px -2436px }
+pkmn.regidrago { background-position: -420px -2436px }
+pkmn.glastrier { background-position: -490px -2436px }
+pkmn.spectrier { background-position: -560px -2436px }
+pkmn.calyrex { background-position: -630px -2436px }
+pkmn.calyrex-ice-rider { background-position: -700px -2436px }
+pkmn.calyrex-shadow-rider { background-position: -770px -2436px }
+
 pkmn.regieleki.shiny { background-position: -1190px -4872px }
 pkmn.regidrago.shiny { background-position: -1260px -4872px }
 pkmn.glastrier.shiny { background-position: -1330px -4872px }
