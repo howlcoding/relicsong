@@ -279,7 +279,6 @@ pkmn.espeon { background-position: -0px -522px }
 pkmn.umbreon { background-position: -70px -522px }
 pkmn.murkrow { background-position: -140px -522px }
 pkmn.slowking { background-position: -210px -522px }
-pkmn.slowking-galar { background-position: -280px -522px }
 pkmn.misdreavus { background-position: -350px -522px }
 pkmn.unown { background-position: -420px -522px }
 pkmn.unown-a { background-position: -420px -522px }
@@ -2811,6 +2810,7 @@ pkmn.zarude-dada.shiny { background-position: -1120px -4872px }
 
 /* SWSH DLC */
 
+pkmn.slowking-galar { background-position: -280px -522px }
 pkmn.regieleki { background-position: -350px -2436px }
 pkmn.regidrago { background-position: -420px -2436px }
 pkmn.glastrier { background-position: -490px -2436px }
