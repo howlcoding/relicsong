@@ -571,12 +571,9 @@ pkmn.buizel { background-position: -980px -1044px }
 pkmn.floatzel { background-position: -1050px -1044px }
 pkmn.cherubi { background-position: -1120px -1044px }
 pkmn.cherrim { background-position: -1190px -1044px }
-pkmn.cherrim-overcast { background-position: -1190px -1044px }
 pkmn.cherrim-sunshine { background-position: -1260px -1044px }
-pkmn.shellos { background-position: -1330px -1044px }
 pkmn.shellos-west { background-position: -1330px -1044px }
 pkmn.shellos-east { background-position: -1400px -1044px }
-pkmn.gastrodon { background-position: -1470px -1044px }
 pkmn.gastrodon-west { background-position: -1470px -1044px }
 pkmn.gastrodon-east { background-position: -1540px -1044px }
 pkmn.ambipom { background-position: -1610px -1044px }
@@ -654,7 +651,6 @@ pkmn.dialga { background-position: -70px -1218px }
 pkmn.palkia { background-position: -140px -1218px }
 pkmn.heatran { background-position: -210px -1218px }
 pkmn.regigigas { background-position: -280px -1218px }
-pkmn.giratina { background-position: -350px -1218px }
 pkmn.giratina-altered { background-position: -350px -1218px }
 pkmn.giratina-origin { background-position: -420px -1218px }
 pkmn.cresselia { background-position: -490px -1218px }
@@ -662,7 +658,6 @@ pkmn.phione { background-position: -560px -1218px }
 pkmn.manaphy { background-position: -630px -1218px }
 pkmn.darkrai { background-position: -700px -1218px }
 pkmn.shaymin { background-position: -770px -1218px }
-pkmn.shaymin-land { background-position: -770px -1218px }
 pkmn.shaymin-sky { background-position: -840px -1218px }
 pkmn.arceus { background-position: -910px -1218px }
 pkmn.arceus-normal { background-position: -910px -1218px }
