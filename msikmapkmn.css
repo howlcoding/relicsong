@@ -1,4 +1,4 @@
-pkmn { display: inline-block; width: 68px; height: 56px; background-image: url('https://c.l3n.co/i/ziFrD1.png'); image-rendering: pixelated; image-rendering: -moz-crisp-edges }
+tpkmn { display: inline-block; width: 68px; height: 56px; background-image: url('https://c.l3n.co/i/ziFrD1.png'); image-rendering: pixelated; image-rendering: -moz-crisp-edges }
 pkmn.bulbasaur { background-position: -0px -0px }
 pkmn.ivysaur { background-position: -70px -0px }
 pkmn.venusaur { background-position: -140px -0px }
@@ -2891,5 +2891,5 @@ pkmn.enamorus-therian.shiny { background-image:url('https://raw.githubuserconten
 
 /* PALDEA POKEMON */
 
-pkmn.sprigatito { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/regular/sprigatito.png'); }
+pkmn.sprigatito { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/regular/sprigatito.png'); height:32px; width:32px; }
 
