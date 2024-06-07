@@ -2815,86 +2815,76 @@ pkmn.egg { background-position: -1540px -4814px }
 
 /* SWSH DLC */
 
-pkmn.slowking-galar { background-position: -280px -522px }
-pkmn.regieleki { background-position: -350px -2436px }
-pkmn.regidrago { background-position: -420px -2436px }
-pkmn.glastrier { background-position: -490px -2436px }
-pkmn.spectrier { background-position: -560px -2436px }
-pkmn.calyrex { background-position: -630px -2436px }
-pkmn.calyrex-ice-rider { background-position: -700px -2436px }
-pkmn.calyrex-shadow-rider { background-position: -770px -2436px }
+pkmn.slowking-galar { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/slowking-galar.png'); }
+pkmn.regieleki { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/regieleki.png'); }
+pkmn.regidrago { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/regidrago.png'); }
+pkmn.glastrier { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/glastrier.png'); }
+pkmn.spectrier { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/spectrier.png'); }
+pkmn.calyrex { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/calyrex.png'); }
+pkmn.calyrex-ice-rider { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/calyrex-ice-rider.png'); }
+pkmn.calyrex-shadow-rider { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/calyrex-shadow-rider.png'); }
 
-pkmn.regieleki.shiny { background-position: -1190px -4872px }
-pkmn.regidrago.shiny { background-position: -1260px -4872px }
-pkmn.glastrier.shiny { background-position: -1330px -4872px }
-pkmn.spectrier.shiny { background-position: -1400px -4872px }
-pkmn.calyrex.shiny { background-position: -1470px -4872px }
-pkmn.calyrex-ice-rider.shiny { background-position: -1540px -4872px }
-pkmn.calyrex-shadow-rider.shiny { background-position: -1610px -4872px }
+pkmn.slowking-galar.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/slowking-galar.png'); }
+pkmn.regieleki.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/regieleki.png'); }
+pkmn.regidrago.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/regidrago.png'); }
+pkmn.glastrier.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/glastrier.png'); }
+pkmn.spectrier.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/spectrier.png'); }
+pkmn.calyrex.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/calyrex.png'); }
+pkmn.calyrex-ice-rider.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/calyrex-ice-rider.png'); }
+pkmn.calyrex-shadow-rider.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/calyrex-shadow-rider.png'); }
 
 /* HISUI POKEMON */
-pkmn.growlithe-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/growlithe-hisui.png'); }
-pkmn.growlithe-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/growlithe-hisui-shiny.png'); }
-pkmn.arcanine-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/arcanine-hisui.png'); }
-pkmn.arcanine-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/arcanine-hisui-shiny.png'); }
-pkmn.voltorb-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/voltorb-hisui.png'); }
-pkmn.voltorb-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/voltorb-hisui-shiny.png'); }
-pkmn.electrode-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/electrode-hisui.png'); }
-pkmn.electrode-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/electrode-hisui-shiny.png'); }
-pkmn.typhlosion-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/typhlosion-hisui.png'); }
-pkmn.typhlosion-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/typhlosion-hisui-shiny.png'); }
 
+pkmn.wyrdeer { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/wyrdeer.png'); }
+pkmn.kleavor { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/kleavor.png'); }
+pkmn.ursaluna { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/ursaluna.png'); }
+pkmn.basculin-white-striped { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/basculin-white-striped.png'); }
+pkmn.basculegion-m { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/basculegion.png'); }
+pkmn.basculegion-f { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/female/basculegion.png'); }
+pkmn.growlithe-hisui { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/growlithe-hisui.png'); }
+pkmn.arcanine-hisui { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/arcanine-hisui.png'); }
+pkmn.voltorb-hisui { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/voltorb-hisui.png'); }
+pkmn.electrode-hisui { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/electrode-hisui.png'); }
+pkmn.typhlosion-hisui { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/typhlosion-hisui.png'); }
 pkmn.qwilfish-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/qwilfish-hisui.png'); }
-pkmn.qwilfish-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/qwilfish-hisui-shiny.png'); }
-pkmn.overqwil { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/overqwil.png'); }
+pkmn.overqwil { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/qwilfish-hisui.png'); }
+pkmn.sneasel-hisui { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/sneasel-hisui.png'); }
+pkmn.sneasler { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/sneasler.png'); }
+pkmn.samurott-hisui { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/samurott-hisui.png'); }
+pkmn.lilligant-hisui { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/lilligant-hisui.png'); }
+pkmn.zorua-hisui { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/zorua-hisui.png'); }
+pkmn.zoroark-hisui { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/zoroark-hisui.png'); }
+pkmn.braviary-hisui { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/braviary-hisui.png'); }
+pkmn.sliggoo-hisui { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/sliggoo-hisui.png'); }
+pkmn.goodra-hisui { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/goodra-hisui.png'); }
+pkmn.avalugg-hisui { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/avalugg-hisui.png'); }
+pkmn.decidueye-hisui { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/decidueye-hisui.png'); }
+pkmn.enamorus { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/enamorus.png'); }
+pkmn.enamorus-therian { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/enamorus-therian.png'); }
+
+pkmn.wyrdeer.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/wyrdeer.png'); }
+pkmn.kleavor.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/kleavor.png'); }
+pkmn.ursaluna.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/ursaluna.png'); }
+pkmn.basculin-white-striped.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/basculin-white-striped.png'); }
+pkmn.basculegion-m.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/basculegion.png'); }
+pkmn.basculegion-f.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/female/basculegion.png'); }
+pkmn.growlithe-hisui.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/growlithe-hisui.png'); }
+pkmn.arcanine-hisui.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/arcanine-hisui.png'); }
+pkmn.voltorb-hisui.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/voltorb-hisui.png'); }
+pkmn.electrode-hisui.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/electrode-hisui.png'); }
+pkmn.typhlosion-hisui.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/typhlosion-hisui.png'); }
+pkmn.qwilfish-hisui.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/qwilfish-hisui.png'); }
 pkmn.overqwil.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/overqwil-shiny.png'); }
-
-pkmn.sneasel-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/sneasel-hisui.png'); }
-pkmn.sneasel-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/sneasel-hisui-shiny.png'); }
-pkmn.sneasler { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/sneasler.png'); }
-pkmn.sneasler.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/sneasler-shiny.png'); }
-
-pkmn.samurott-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/samurott-hisui.png'); }
-pkmn.samurott-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/samurott-hisui-shiny.png'); }
-pkmn.lilligant-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/lilligant-hisui.png'); }
-pkmn.lilligant-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/lilligant-hisui-shiny.png'); }
-
-pkmn.zorua-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/zorua-hisui.png'); }
-pkmn.zorua-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/zorua-hisui-shiny.png'); }
-pkmn.zoroark-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/zoroark-hisui.png'); }
-pkmn.zoroark-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/zoroark-hisui-shiny.png'); }
-
-pkmn.braviary-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/braviary-hisui.png'); }
-pkmn.braviary-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/braviary-hisui-shiny.png'); }
-
-pkmn.sliggoo-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/sliggoo-hisui.png'); }
-pkmn.sliggoo-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/sliggoo-hisui-shiny.png'); }
-pkmn.goodra-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/goodra-hisui1.png'); }
-pkmn.goodra-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/goodra-hisui-shiny.png'); }
-
-pkmn.avalugg-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/avalugg-hisui.png'); }
-pkmn.avalugg-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/avalugg-hisui-shiny.png'); }
-
-pkmn.decidueye-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/decidueye-hisui.png'); }
-pkmn.decidueye-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/decidueye-hisui-shiny.png'); }
-
-pkmn.wyrdeer { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/wyrdeer.png'); }
-pkmn.wyrdeer.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/wyrdeer-shiny.png'); }
-pkmn.kleavor { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/kleavor.png'); }
-pkmn.kleavor.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/kleavor-shiny.png'); }
-pkmn.ursaluna { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/ursaluna.png'); }
-pkmn.ursaluna.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/ursaluna-shiny.png'); }
-
-
-pkmn.basculin-white-striped { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/basculin-white-striped.png'); }
-pkmn.basculin-white-striped.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/basculin-white-striped-shiny.png'); }
-pkmn.basculegion-m { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/basculegion-m.png'); }
-pkmn.basculegion-m.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/basculegion-m-shiny.png'); }
-pkmn.basculegion-f { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/basculegion-f.png'); }
-pkmn.basculegion-f.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/basculegion-f-shiny.png'); }
-
-pkmn.enamorus { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/enamorus.png'); }
-pkmn.enamorus.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/enamorus-shiny.png'); }
-
-pkmn.enamorus-therian { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/enamorus-therian.png'); }
-pkmn.enamorus-therian.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/enamorus-therian-shiny.png'); }
+pkmn.sneasel-hisui.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/sneasel-hisui.png'); }
+pkmn.sneasler.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/sneasler.png'); }
+pkmn.samurott-hisui.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/samurott-hisui.png'); }
+pkmn.lilligant-hisui.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/lilligant-hisui.png'); }
+pkmn.zorua-hisui.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/zorua-hisui.png'); }
+pkmn.zoroark-hisui.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/zoroark-hisui.png'); }
+pkmn.braviary-hisui.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/braviary-hisui.png'); }
+pkmn.sliggoo-hisui.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/goodra.png'); }
+pkmn.goodra-hisui.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/goodra-hisui.png'); }
+pkmn.avalugg-hisui.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/avalugg-hisui.png'); }
+pkmn.decidueye-hisui.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/decidueye-hisui.png'); }
+pkmn.enamorus.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/enamorus.png'); }
+pkmn.enamorus-therian.shiny { background-image:url('https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/enamorus-therian.png'); }
