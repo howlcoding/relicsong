@@ -3036,8 +3036,50 @@ pkmn.tauros-paldea-blaze { background-image:url('https://raw.githubusercontent.c
 pkmn.wooper-paldea { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/wooper-paldea.png'); }
 pkmn.wooper-paldea { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/wooper-paldea.png'); }
 
+/* PALDEA SHINIES */
 
-
+pkmn.sprigatito.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/sprigatito-shiny.png'); }
+pkmn.floragato.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/floragato-shiny.png'); }
+pkmn.meowscarada.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/meowscarada-shiny.png'); }
+pkmn.fuecoco.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/fuecoco-shiny.png'); }
+pkmn.crocalor.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/crocalor-shiny.png'); }
+pkmn.skeledirge.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/skeledirge-shiny.png'); }
+pkmn.quaxly.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/quaxly-shiny.png'); }
+pkmn.quaxwell.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/quaxwell-shiny.png'); }
+pkmn.quaquaval.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/quaquaval-shiny.png'); }
+pkmn.lechonk.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/lechonk-shiny.png'); }
+pkmn.oinkologne.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/oinkologne-shiny.png'); }
+pkmn.oinkologne-male.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/oinkologne-shiny.png'); }
+pkmn.oinkologne-female.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/oinkologne-shiny-female.png'); }
+pkmn.tarountula.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/tarountula-shiny.png'); }
+pkmn.spidops.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/spidops-shiny.png'); }
+pkmn.nymble.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/nymble-shiny.png'); }
+pkmn.lokix.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/lokix-shiny.png'); }
+pkmn.pawmi.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/pawmi-shiny.png'); }
+pkmn.pawmo.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/pawmo-shiny.png'); }
+pkmn.pawmot.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/pawmot-shiny.png'); }
+pkmn.tandemaus.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/tandemaus-shiny.png'); }
+pkmn.maushold.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/maushold-shiny.png'); }
+pkmn.maushold-four.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/maushold-shiny.png'); }
+pkmn.maushold-three.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/maushold-three-shiny.png'); }
+pkmn.fidough.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/fidough-shiny.png'); }
+pkmn.dachsbun.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/dachsbun-shiny.png'); }
+pkmn.smoliv.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/smoliv-shiny.png'); }
+pkmn.dolliv.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/dolliv-shiny.png'); }
+pkmn.arboliva.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/arboliva-shiny.png'); }
+pkmn.squawkabilly.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/squawkabilly-green-shiny.png'); }
+pkmn.squawkabilly-green.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/squawkabilly-green-shiny.png'); }
+pkmn.squawkabilly-blue.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/squawkabilly-blue-shiny.png'); }
+pkmn.squawkabilly-white.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/squawkabilly-white-shiny.png'); }
+pkmn.squawkabilly-yellow.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/squawkabilly-yellow-shiny.png'); }
+pkmn.nacli.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/nacli-shiny.png'); }
+pkmn.naclstack.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/naclstack-shiny.png'); }
+pkmn.garganacl.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/garganacl-shiny.png'); }
+pkmn.charcadet.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/charcadet-shiny.png'); }
+pkmn.armarouge.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/armarouge-shiny.png'); }
+pkmn.ceruledge.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/ceruledge-shiny.png'); }
+pkmn.tadbulb.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/tadbulb-shiny.png'); }
+pkmn.bellibolt.shiny { background-image:url('https://raw.githubusercontent.com/howlcoding/relicsong/main/msikma%20pokesprite%20master%20pokemon-gen8/bellibolt-shiny.png'); }
 
 
 
